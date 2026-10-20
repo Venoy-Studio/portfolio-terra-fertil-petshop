@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Ração para cães adultos",
+    "query": "Ração"
+  },
+  {
+    "label": "Ração para gatos",
+    "query": "Gatos"
+  },
+  {
+    "label": "Antipulgas e carrapatos",
+    "query": "Antipulgas"
+  },
+  {
+    "label": "Vermífugo",
+    "query": "Vermífugo"
+  },
+  {
+    "label": "Caixa de transporte",
+    "query": "Caixa"
+  }
+]

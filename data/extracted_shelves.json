@@ -1,0 +1,49 @@
+{
+  "offers": [
+    "capitao-dog",
+    "jack-pet",
+    "domus",
+    "vetmax-plus"
+  ],
+  "bestSellers": [
+    "pro-omega-adulto",
+    "primus",
+    "dog-fit",
+    "pro-omega-filhote",
+    "percane",
+    "sabor-cat",
+    "herbalvet",
+    "vittamax-gato",
+    "capitao-dog",
+    "jack-pet"
+  ],
+  "picks": [
+    "nd-filhote",
+    "pro-omega-action",
+    "bravecto",
+    "gulliver"
+  ],
+  "reorder": [
+    "pro-omega-adulto",
+    "vetmax-plus",
+    "herbalvet"
+  ],
+  "cartSuggestions": [
+    "domus",
+    "bravecto",
+    "herbalvet",
+    "capitao-dog"
+  ],
+  "mobileOffers": [
+    "capitao-dog",
+    "vetmax-plus"
+  ],
+  "mobileBestSellers": [
+    "pro-omega-adulto",
+    "primus",
+    "dog-fit",
+    "sabor-cat",
+    "bravecto",
+    "jack-pet"
+  ]
+}

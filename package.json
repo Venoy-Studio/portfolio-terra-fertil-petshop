@@ -1,0 +1,12 @@
+{
+  "name": "terra-fertil-petshop-clone",
+  "version": "1.0.0",
+  "description": "Clone do site Terra Fértil Pet Shop com dados de contato 100% fictícios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
